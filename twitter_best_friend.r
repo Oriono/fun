@@ -25,6 +25,7 @@ library(twitteR)
 library(tm)
 library(wordcloud)
 library(RColorBrewer)
+library(stringr)
 
 
 #this method can only access most recent 3500 tweets. 
